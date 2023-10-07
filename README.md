@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem-Vindos ao meu Perfil meu nome é Danrlei Souza 👋
 
-<!--
-**danrleisnob/danrleisnob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje trabalho como Analista de sustentação helpdesk N3
+- 🌱 Graduando em Ciência da Computação
+- 😄 Pronomes: ele/dele
+- ⚡ Curiosidades: Praticante de Musculação e curto astronomia.
 
-Here are some ideas to get you started:
+  <div>
+    <a href="https://github.com/danrleisnob">
+      <img height="180px" scr="https://github-redme-stats.vercel.app/api?username=danrleisnob&show_icon=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img height="180px" scr="https://github-redme-stats.vercel.app/api/top-langs/?username=danrleisnob&layout=compact&langs_count=168theme=dracula/>
+      <img height="180px" scr=""/>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
