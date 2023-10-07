@@ -24,7 +24,7 @@
   <img align="center" alt="Danrlei-angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 </div>
 
-## softwares favoritos 🤩
+## Softwares favoritos 🤩
 
 <div>
   <img align="center" alt="Danrlei-docker" height="30" width="40" src="https://logopng.com.br/logos/docker-27.png" />
