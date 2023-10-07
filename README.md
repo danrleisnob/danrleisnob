@@ -1,6 +1,6 @@
 ### Bem-Vindos ao meu Perfil meu nome é Danrlei Souza 👋
 
-- 🔭 Hoje trabalho como Analista de sustentação helpdesk N3
+- 🔭 Hoje trabalho como Analista de suporte N3
 - 🌱 Graduando em Ciência da Computação
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidades: Praticante de Musculação e curto astronomia.
