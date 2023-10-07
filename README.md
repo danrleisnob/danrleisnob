@@ -19,7 +19,7 @@
 
 <div>
   <img align="center" alt="Danrlei-bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" />
-  <img align="center" alt="Danrlei-angular" height="30" width="40" src="https://assets.stickpng.com/images/5847ea22cef1014c0b5e4833.png" />
+  <img align="center" alt="Danrlei-angular" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" />
 </div>
 
 ## Domino
