@@ -30,8 +30,9 @@
   <img align="center" alt="Danrlei-docker" height="30" width="40" src="https://logopng.com.br/logos/docker-27.png" />
   <img align="center" alt="Danrlei-crm-dynamics" height="30" width="40" src="https://logolook.net/wp-content/uploads/2022/10/Dynamics-365-Emblem.png" />
   <img align="center" alt="Danrlei-crm-aws" height="30" width="40" src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png" />
-  <img align="center" alt="Danrlei-figma" height="30" width="40" src="https://w7.pngwing.com/pngs/54/524/png-transparent-figma-app-logo-tech-companies-thumbnail.png" />
+  <img align="center" alt="Danrlei-figma" height="30" width="40" src="https://assets.stickpng.com/images/62c6bc57eee9410fe137d921.png" />
   <img align="center" alt="Danrlei-canva" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2020/11/canva-logo.png" />
+  <img align="center" alt="Danrlei-canva" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2021/08/microsoft-teams-logo-0.png" />
 </div>   
 
 ## Conecte-se comigo!
