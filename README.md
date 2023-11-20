@@ -21,7 +21,6 @@
 <div>
   <img align="center" alt="Danrlei-bootstrap" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" />
   <img align="center" alt="Danrlei-angular" height="30" width="40" src="https://angular.io/assets/images/logos/angularjs/AngularJS-Shield.svg" />
-  <img align="center" alt="Danrlei-angular" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 </div>
 
 ## Softwares favoritos 🤩
