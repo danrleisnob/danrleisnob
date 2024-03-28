@@ -1,9 +1,16 @@
-### Bem-Vindos ao meu Perfil meu nome é Danrlei Souza 👋
+<h1 align="center">
+ Bem-Vindos ao meu Perfil meu nome é Danrlei Souza 👋
+</h1>
 
+<div align="center">
+<img height="320em" src="https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/81bb4b165684019.640b6038d133e.gif"/>
+</div>
+<div display="flex" flex-direction="column">
 - 🔭 Hoje trabalho como Analista de Suporte N3
 - 🌱 Graduando em Ciência da Computação
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidades: Praticante de Musculação e curto astronomia.
+</div>
 
 ## Minhas Skills
 
