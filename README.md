@@ -7,8 +7,11 @@
 </div>
 <div display="flex" flex-direction="column">
 - 🔭 Hoje trabalho como Analista de Suporte N3
+ 
 - 🌱 Graduando em Ciência da Computação
+  
 - 😄 Pronomes: ele/dele
+  
 - ⚡ Curiosidades: Praticante de Musculação e curto astronomia.
 </div>
 
